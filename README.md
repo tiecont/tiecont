@@ -87,45 +87,6 @@ I particularly enjoy problems involving:
 
 ---
 
-## 📌 Selected Projects
-
-### ☁️ SkyPipe API
-
-**Go · Fiber · GORM · MySQL · Docker · DevOps**
-
-Backend for a DevOps-oriented SaaS platform exploring:
-
-* project management
-* CI/CD pipelines
-* Docker deployments
-* Kubernetes deployments
-* GitHub integrations
-* team permissions
-* secrets and webhooks
-* deployment infrastructure
-
-[View repository →](https://github.com/tiecont/skypipe-api)
-
----
-
-### 🛒 E-Commerce Backend
-
-**Node.js · Express · MongoDB · MySQL · Redis · RabbitMQ · Kafka**
-
-Backend experiments around e-commerce architecture and asynchronous infrastructure.
-
-[View repository →](https://github.com/tiecont/EcomerceBackend)
-
----
-
-### 🤖 AI Agent
-
-Experiments around AI agents and developer tooling.
-
-[View repository →](https://github.com/tiecont/ai-agent)
-
----
-
 ## 📊 GitHub
 
 <div align="center">
