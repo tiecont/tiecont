@@ -4,7 +4,7 @@
 
 ### Backend Engineer · TypeScript / NestJS · Go
 
-Building reliable backend systems and continuously improving toward distributed systems & open source.
+Building reliable backend systems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tiecont\&style=flat\&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/tiecont?style=flat\&logo=github\&label=Followers)
@@ -19,9 +19,7 @@ Building reliable backend systems and continuously improving toward distributed 
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,postgres,redis,mysql,mongodb,docker,kubernetes,git,github,linux" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 `NestJS` · `TypeORM` · `PostgreSQL` · `Redis` · `Go` · `Docker` · `RabbitMQ` · `Kafka`
 
@@ -34,15 +32,26 @@ Building reliable backend systems and continuously improving toward distributed 
 <div align="center">
 
 <img
-  src="https://github-stats.167.233.211.87.nip.io/stats.svg"
-  width="760"
-  alt="Tiecont GitHub Contribution Stats"
+src="https://github-stats.167.233.211.87.nip.io/stats.svg?v=2"
+width="760"
+alt="Tiecont GitHub Contribution Stats"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-stats-extended.vercel.app/api?username=tiecont&show_icons=true&include_all_commits=true&show=reviews,prs_merged&rank_icon=default&hide_border=true&theme=transparent&card_width=500"
+height="190"
+alt="Tiecont GitHub Rank"
 />
 
 </div>
 
 <p align="center">
-  <sub>Rank is provided by GitHub Stats Extended and is not an official GitHub ranking.</sub>
+  <sub>
+    Contribution statistics include aggregate private/internal activity where available.
+    Rank is provided by GitHub Stats Extended and is based on publicly available GitHub statistics.
+  </sub>
 </p>
 
 ---
@@ -54,20 +63,16 @@ Building reliable backend systems and continuously improving toward distributed 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=tiecont&theme=github-compact&hide_border=true&area=true"
 width="95%"
-alt="Contribution Graph"
+alt="Tiecont Contribution Activity"
 />
 
 </div>
 
 ---
 
-## 🚀 Focus
-
 <div align="center">
 
-**Backend Architecture · Distributed Systems · PostgreSQL · Go · Open Source**
-
-<br/>
+### Backend Architecture · Distributed Systems · PostgreSQL · Go
 
 **Production reliability over clever code.**
 
