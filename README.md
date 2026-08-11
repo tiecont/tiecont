@@ -34,15 +34,9 @@ Building reliable backend systems and continuously improving toward distributed 
 <div align="center">
 
 <img
-height="180"
-src="https://github-stats-extended.vercel.app/api?username=tiecont&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=default&hide_border=true&theme=transparent"
-alt="GitHub Stats"
-/>
-
-<img
-height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiecont&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-alt="Top Languages"
+  src="https://github-stats.167.233.211.87.nip.io/stats.svg"
+  width="760"
+  alt="Tiecont GitHub Contribution Stats"
 />
 
 </div>
