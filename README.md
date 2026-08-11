@@ -27,32 +27,17 @@ Building reliable backend systems.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img
-src="https://github-stats.167.233.211.87.nip.io/stats.svg?v=2"
-width="760"
-alt="Tiecont GitHub Contribution Stats"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-stats-extended.vercel.app/api?username=tiecont&show_icons=true&include_all_commits=true&show=reviews,prs_merged&rank_icon=default&hide_border=true&theme=transparent&card_width=500"
-height="190"
-alt="Tiecont GitHub Rank"
+  src="https://github-stats.167.233.211.87.nip.io/stats.svg?v=3"
+  width="760"
+  alt="Tiecont GitHub Activity"
 />
 
 </div>
-
-<p align="center">
-  <sub>
-    Contribution statistics include aggregate private/internal activity where available.
-    Rank is provided by GitHub Stats Extended and is based on publicly available GitHub statistics.
-  </sub>
-</p>
 
 ---
 
