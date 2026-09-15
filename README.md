@@ -27,8 +27,6 @@ Building reliable backend systems.
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
 <img
