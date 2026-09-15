@@ -2,86 +2,89 @@
 
 # Tiecont
 
-### Backend Engineer · Go · TypeScript / NestJS · Distributed Systems
+<p><strong>Backend Engineer · Go · TypeScript / NestJS · Distributed Systems</strong></p>
 
-I build backend systems that stay **reliable, observable, and boring in production**.
+<p>I build backend systems that stay <strong>reliable, observable, and boring in production</strong>.</p>
 
-<br/>
-
-`Backend Architecture` · `Distributed Systems` · `PostgreSQL` · `Kubernetes` · `GitOps`
+<p>
+  <code>Backend Architecture</code>&nbsp; · &nbsp;<code>Distributed Systems</code>&nbsp; · &nbsp;<code>PostgreSQL</code>&nbsp; · &nbsp;<code>Kubernetes</code>&nbsp; · &nbsp;<code>GitOps</code>
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+<h2 align="center">About Me</h2>
 
-I'm a backend engineer focused on designing systems that are easy to reason about, safe to evolve, and dependable under real production constraints.
+<div align="center">
 
-My work is centered around:
+<p>I'm a backend engineer focused on designing systems that are easy to reason about, safe to evolve, and dependable under real production constraints.</p>
 
-- building APIs and backend services with **Go** and **TypeScript / NestJS**
-- designing reliable data flows around **PostgreSQL**, **Redis**, and search infrastructure
-- working with **Docker**, **Kubernetes**, **ArgoCD**, and automated delivery pipelines
-- improving systems through clear boundaries, observability, safe migrations, and failure-aware design
+<p>
+  APIs and backend services with <strong>Go</strong> and <strong>TypeScript / NestJS</strong><br>
+  Reliable data flows around <strong>PostgreSQL</strong>, <strong>Redis</strong>, and search infrastructure<br>
+  Delivery platforms with <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>ArgoCD</strong>, and GitHub Actions<br>
+  Clear boundaries, observability, safe migrations, and failure-aware design
+</p>
 
-> **Production reliability over clever code.**
+<p><strong>Production reliability over clever code.</strong></p>
+
+</div>
 
 ---
 
-## 🧭 Engineering Focus
+<h2 align="center">Engineering Focus</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Backend Systems
 
-- API architecture
-- Service boundaries
-- Authentication & authorization
-- Background workers
-- Event-driven workflows
-- Distributed processing
+API architecture<br>
+Service boundaries<br>
+Authentication &amp; authorization<br>
+Background workers<br>
+Event-driven workflows<br>
+Distributed processing
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### Data & Reliability
+### Data &amp; Reliability
 
-- PostgreSQL
-- TypeORM
-- Redis
-- Elasticsearch
-- Database migrations
-- Failure-safe deployments
+PostgreSQL<br>
+TypeORM<br>
+Redis<br>
+Elasticsearch<br>
+Database migrations<br>
+Failure-safe deployments
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### Go & TypeScript
+### Go &amp; TypeScript
 
-- Go services
-- NestJS
-- Node.js
-- REST APIs
-- Concurrency
-- Maintainable application architecture
+Go services<br>
+NestJS<br>
+Node.js<br>
+REST APIs<br>
+Concurrency<br>
+Maintainable application architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Platform Engineering
 
-- Docker
-- Kubernetes
-- ArgoCD
-- GitHub Actions
-- GitOps
-- Immutable delivery
+Docker<br>
+Kubernetes<br>
+ArgoCD<br>
+GitHub Actions<br>
+GitOps<br>
+Immutable delivery
 
 </td>
 </tr>
@@ -89,54 +92,49 @@ My work is centered around:
 
 ---
 
-## 🚀 Selected Work
+<h2 align="center">Selected Work</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### [Nexus Estate API](https://github.com/nexus-estate/nexus-estate-api)
+### <a href="https://github.com/nexus-estate/nexus-estate-api">Nexus Estate API</a>
 
 Backend API and domain services for Nexus Estate.
 
-**Stack**
+<strong>Stack</strong><br>
+<code>NestJS</code> <code>TypeScript</code><br>
+<code>PostgreSQL</code> <code>TypeORM</code>
 
-`NestJS` `TypeScript` `PostgreSQL` `TypeORM`
-
-**Focus**
-
+<strong>Focus</strong><br>
 Authentication, data integrity, migrations, API architecture, and production delivery.
 
 </td>
+<td width="33%" valign="top" align="center">
 
-<td width="33%" valign="top">
-
-### [Nexus Estate Engine](https://github.com/nexus-estate/nexus-estate-engine)
+### <a href="https://github.com/nexus-estate/nexus-estate-engine">Nexus Estate Engine</a>
 
 Backend services and processing engine built around Go.
 
-**Stack**
+<strong>Stack</strong><br>
+<code>Go</code> <code>Elasticsearch</code><br>
+<code>Workers</code> <code>Docker</code>
 
-`Go` `Elasticsearch` `Workers` `Docker`
-
-**Focus**
-
+<strong>Focus</strong><br>
 Search, service isolation, asynchronous processing, and backend performance.
 
 </td>
+<td width="33%" valign="top" align="center">
 
-<td width="33%" valign="top">
-
-### [GitHub Profile Stats](https://github.com/tiecont/github-profile-stats)
+### <a href="https://github.com/tiecont/github-profile-stats">GitHub Profile Stats</a>
 
 Self-hosted GitHub analytics powering the live cards on this profile.
 
-**Stack**
+<strong>Stack</strong><br>
+<code>Node.js</code> <code>GitHub GraphQL</code><br>
+<code>SVG</code> <code>Kubernetes</code> <code>ArgoCD</code>
 
-`Node.js` `GitHub GraphQL` `SVG` `Kubernetes` `ArgoCD`
-
-**Focus**
-
+<strong>Focus</strong><br>
 Resilient rendering, caching, TLS, containers, and GitOps delivery.
 
 </td>
@@ -145,88 +143,76 @@ Resilient rendering, caching, TLS, containers, and GitOps delivery.
 
 ---
 
-## 📊 GitHub Activity
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-stats.167.233.211.87.nip.io/stats.svg?v=5" width="100%" alt="Tiecont GitHub Activity">
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-stats.167.233.211.87.nip.io/contributions.svg?v=1" width="100%" alt="Tiecont Contribution Activity">
+</p>
+
+---
+
+<h2 align="center">Technology</h2>
 
 <div align="center">
 
-<img
-  src="https://github-stats.167.233.211.87.nip.io/stats.svg?v=5"
-  width="760"
-  alt="Tiecont GitHub Activity"
-/>
+<p><img src="https://skillicons.dev/icons?i=go,ts,nodejs,nestjs,postgres,redis,mysql,mongodb,docker,kubernetes,git,github,linux" alt="Tiecont Technology Stack"></p>
+
+<p>
+  <strong>Languages</strong><br>
+  <code>Go</code> · <code>TypeScript</code> · <code>JavaScript</code>
+</p>
+
+<p>
+  <strong>Backend</strong><br>
+  <code>NestJS</code> · <code>Node.js</code> · <code>REST</code> · <code>Workers</code>
+</p>
+
+<p>
+  <strong>Data</strong><br>
+  <code>PostgreSQL</code> · <code>Redis</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Elasticsearch</code>
+</p>
+
+<p>
+  <strong>Infrastructure</strong><br>
+  <code>Docker</code> · <code>Kubernetes</code> · <code>ArgoCD</code> · <code>GitHub Actions</code> · <code>Linux</code>
+</p>
+
+<p>
+  <strong>Messaging</strong><br>
+  <code>Kafka</code> · <code>RabbitMQ</code>
+</p>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">How I Think About Engineering</h2>
 
 <div align="center">
 
-<img
-  src="https://github-stats.167.233.211.87.nip.io/contributions.svg?v=1"
-  width="100%"
-  alt="Tiecont Contribution Activity"
-/>
-
-</div>
-
----
-
-## 🛠 Technology
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=go,ts,nodejs,nestjs,postgres,redis,mysql,mongodb,docker,kubernetes,git,github,linux"
-  alt="Tiecont Technology Stack"
-/>
-
-<br/><br/>
-
-**Languages**
-
-`Go` · `TypeScript` · `JavaScript`
-
-**Backend**
-
-`NestJS` · `Node.js` · `REST` · `Workers`
-
-**Data**
-
-`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `Elasticsearch`
-
-**Infrastructure**
-
-`Docker` · `Kubernetes` · `ArgoCD` · `GitHub Actions` · `Linux`
-
-**Messaging**
-
-`Kafka` · `RabbitMQ`
-
-</div>
-
----
-
-## ⚙️ How I Think About Engineering
-
-```text
-Correctness       before cleverness.
+<pre>Correctness       before cleverness.
 Reliability       before unnecessary complexity.
 Observability     before debugging in the dark.
 Automation        before repetitive operations.
 Clear boundaries  before premature abstraction.
-Reversible change before risky deployment.
-```
+Reversible change before risky deployment.</pre>
 
-I care about software that is not only correct when it is written, but also understandable six months later and recoverable when something goes wrong.
+<p>I care about software that is not only correct when it is written, but also understandable six months later and recoverable when something goes wrong.</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build systems that are simple to operate, difficult to misuse, and boring when they reach production.
+<p><strong>Build systems that are simple to operate, difficult to misuse, and boring when they reach production.</strong></p>
 
-**Go · Backend Architecture · Distributed Systems · PostgreSQL · Kubernetes**
+<p><code>Go</code> · <code>Backend Architecture</code> · <code>Distributed Systems</code> · <code>PostgreSQL</code> · <code>Kubernetes</code></p>
 
 </div>
