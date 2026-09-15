@@ -126,16 +126,16 @@ Search, service isolation, asynchronous processing, and backend performance.
 </td>
 <td width="33%" valign="top" align="center">
 
-### <a href="https://github.com/tiecont/github-profile-stats">GitHub Profile Stats</a>
+### JobTik Backend Service
 
-Self-hosted GitHub analytics powering the live cards on this profile.
+Backend service for the JobTik platform.
 
 <strong>Stack</strong><br>
-<code>Node.js</code> <code>GitHub GraphQL</code><br>
-<code>SVG</code> <code>Kubernetes</code> <code>ArgoCD</code>
+<code>Backend</code> <code>API</code><br>
+<code>Services</code> <code>Data</code>
 
 <strong>Focus</strong><br>
-Resilient rendering, caching, TLS, containers, and GitOps delivery.
+Backend architecture, reliable APIs, data integrity, and production-ready services.
 
 </td>
 </tr>
